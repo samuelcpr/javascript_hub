@@ -36,8 +36,8 @@ Marque esse projeto com uma estrela 🌟 e acesse o nosso [grupo oficial no What
 - [ ] - Corrigir problema do Webm de não mostrar a duração do video
 - [ ] - Corrigir a responsividade do site
 - [ ] - Tentar usar outros muxers
-  - https://github.com/Vanilagy/webm-muxer
-  - https://github.com/Vanilagy/mp4-muxer
+  - [https://github.com/Vanilagy/webm-muxer](https://github.com/samuelcpr/javascript_hub?tab=readme-ov-file)
+  - [https://github.com/Vanilagy/mp4-muxer](https://github.com/samuelcpr/javascript_hub?tab=readme-ov-file)
 
 
 
